@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Michells Pass 2</name>
+    <desc>Extracted track: Michells Pass 2</desc>
+    <time>2024-01-01T00:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Michells Pass 2</name>
+    <desc>Extracted track: Michells Pass 2</desc>
+    <trkseg>
+      <trkpt lat="-33.43169426636916" lon="19.26249680312119">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:20.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.43138672495726" lon="19.26056062004526">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:21.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.43107272265281" lon="19.25856929396559">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:22.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.43149025971136" lon="19.25657029194698">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:23.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.43172850381207" lon="19.25448452817934">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:24.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.43154964646923" lon="19.25323686902007">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:25.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.4310396291422" lon="19.25212388678653">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:26.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.43029980752596" lon="19.25172965327244">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:27.053514Z</time>
+      </trkpt>
+      <trkpt lat="-33.42968297966729" lon="19.2524661823651">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:28.053514Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

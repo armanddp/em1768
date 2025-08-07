@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Down Michells Pass</name>
+    <desc>Extracted track: Down Michells Pass</desc>
+    <time>2024-01-01T00:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Down Michells Pass</name>
+    <desc>Extracted track: Down Michells Pass</desc>
+    <trkseg>
+      <trkpt lat="-33.46513197129448" lon="19.27862938961248">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:16.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.46181378746789" lon="19.27957655179803">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:17.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.46083191245337" lon="19.27707833139524">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:18.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.46004947607299" lon="19.27458562010008">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:19.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.45940717763923" lon="19.27180642915794">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:20.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.45618523734517" lon="19.27216310490446">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:21.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.45410994766902" lon="19.27050671170594">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:22.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.45228914485805" lon="19.26732712878049">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:23.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.4500874813296" lon="19.26689882723518">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:24.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.4483055732232" lon="19.2662610967713">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:25.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44738084534863" lon="19.26729820983181">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:26.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44671491760367" lon="19.26846692119648">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:27.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44553663631442" lon="19.26817601460588">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:28.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44468898571542" lon="19.26550089585802">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:29.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44328352466366" lon="19.26283477575229">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:30.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44264389483906" lon="19.26110855354238">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:31.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.44109048135013" lon="19.25963261844114">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:32.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.43952506476894" lon="19.2598754805549">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:33.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.43763670808725" lon="19.26216391850728">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:34.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.43508651173561" lon="19.26222260071527">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:35.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.43395657079697" lon="19.26332358709531">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:36.033542Z</time>
+      </trkpt>
+      <trkpt lat="-33.43162795758072" lon="19.26251625423987">
+        <ele>0.0</ele>
+        <time>2025-08-07T12:00:37.033542Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

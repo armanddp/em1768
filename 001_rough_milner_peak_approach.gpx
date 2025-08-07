@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="KML to GPX Converter" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Rough Milner Peak Approach</name>
+    <desc>Extracted from KML: Rough Milner Peak Approach</desc>
+    <time>2025-08-07T11:37:42.691287Z</time>
+  </metadata>
+  <trk>
+    <name>Rough Milner Peak Approach</name>
+    <trkseg>
+      <trkpt lat="-33.41907977909823" lon="19.43881696092322">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:42.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.42272853198103" lon="19.44010741868159">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:43.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.42627624362746" lon="19.43943176490332">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:44.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.43013760240649" lon="19.43890004035793">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:45.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.43358733045788" lon="19.43765960543259">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:46.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.43551735034358" lon="19.43851256905962">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:47.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.43911745303958" lon="19.43843465663982">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:48.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.44196784081684" lon="19.4378455842408">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:49.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.44395080687937" lon="19.43704636057593">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:50.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.44678030732661" lon="19.44311984471985">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:51.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.44888616687658" lon="19.44918473688914">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:52.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45150647754958" lon="19.4541169898474">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:53.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45169999814382" lon="19.45896881991107">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:54.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45306251443015" lon="19.46261540338609">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:55.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45390852937582" lon="19.46602405321283">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:56.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45401054597539" lon="19.46875895527179">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:57.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45544151607018" lon="19.47164186140886">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:58.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45631957547629" lon="19.47404590692009">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:37:59.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45706245115627" lon="19.4753043803711">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:38:00.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.45785312193721" lon="19.47595603356206">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:38:01.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.458953154112" lon="19.47614597948102">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:38:02.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.4595798702032" lon="19.47396567570274">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:38:03.691298Z</time>
+      </trkpt>
+      <trkpt lat="-33.46113336700856" lon="19.47293929376925">
+        <ele>0.0</ele>
+        <time>2025-08-07T11:38:04.691298Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
